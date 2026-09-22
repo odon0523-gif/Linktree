@@ -14,13 +14,13 @@ export type LinkItem = {
 };
 
 export const profile: Profile = {
-  name: "홍길동",
-  bio: "노력의 천재",
+  name: "김정운",
+  bio: "기획예산부장",
   avatarUrl: "/avatar.svg",
 };
 
 export const links: LinkItem[] = [
-  { id: "github", title: "GitHub", url: "https://github.com" },
+  { id: "github", title: "GitHub", url: "https://github.com/odon0523-gif" },
   { id: "blog", title: "블로그", url: "https://example.com" },
   { id: "instagram", title: "Instagram", url: "https://instagram.com" },
 ];
